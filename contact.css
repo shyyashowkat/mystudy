@@ -2,6 +2,14 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
   }
+  #home{
+    color: aliceblue;
+    text-align: right;
+    font-weight: bold;
+    text-shadow: 1px 2px 2px whitesmoke;
+    text-decoration: blueviolet;
+   
+  }
   
   html {
     box-sizing: border-box;
@@ -24,7 +32,7 @@ body {
   }
   
   .about-section {
-    padding: 50px;
+    padding: 5px;
     text-align: center;
     background-color: #474e5d;
     color: white;
@@ -66,3 +74,4 @@ body {
       display: block;
     }
   }
+  
